@@ -1,1 +1,5 @@
-{\rtf1}
+streamlit
+openai
+python-dotenv
+pillow
+requests
